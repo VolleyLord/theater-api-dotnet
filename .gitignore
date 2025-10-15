@@ -361,3 +361,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Project-specific user files
+TheaterAPI.csproj.user
+
+# Configuration files with sensitive data
+appsettings.json
+appsettings.*.json
